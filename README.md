@@ -9,6 +9,8 @@ This repo will show how to use servlet, receive GET and POST data in servlet and
 <H1> Creating Servlet </H1>
 1. Create index.html page with form
 2. Create a class which will extend HttpServlet <br />
-![image](https://github.com/fahminmd/Calculator/assets/75845854/26603fd8-2c88-4069-8b87-fb538d726b6c) <br />
+
+
+![image](https://github.com/fahminmd/Calculator/assets/75845854/26603fd8-2c88-4069-8b87-fb538d726b6c) 
 
 3. update web.xml to declare the mapping
