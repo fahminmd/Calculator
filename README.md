@@ -7,7 +7,7 @@ This repo will show how to use servlet, receive GET and POST data in servlet and
 ![image](https://github.com/fahminmd/Calculator/assets/75845854/06b4ca97-886e-4d06-ab3b-005ef85fb54b)
 
 <H1> Creating Servlet </H1>
-1. Create index.html page with form
+1. Create index.html page with form <br />
 2. Create a class which will extend HttpServlet <br />
 
 
